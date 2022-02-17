@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on tbeede</title>
+    <link>https://tbeede.github.io/posts/</link>
+    <description>Recent content in Posts on tbeede</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tbeede.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://tbeede.github.io/posts/firstpost/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbeede.github.io/posts/firstpost/</guid>
+      <description>Hello! 👋    Hi there! I&amp;rsquo;m a Software Developer from South Carolina, and, as you may have guessed, this is my personal site. This just makes it easier for potential employers and current colleagues to find my various projects and info. Have a look around and check out my About page for more!</description>
+    </item>
+    
+  </channel>
+</rss>
