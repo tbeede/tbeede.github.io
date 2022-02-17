@@ -12,4 +12,4 @@ In my free time I enjoy playing music whether it be drums, guitar, or electronic
 
 I have also recently taken up weightlifting as a hobby and to improve my health and strength and have really been enjoying the challenge.
 
-For more of my job history see my [LinkedIn](https://www.linkedin.com/in/tbeede/) or the shorter version of my resume [here](https://tbeede.github.io) on this site.
+For more of my job history see my [LinkedIn](https://www.linkedin.com/in/tbeede/) or the shorter version of my resume [here](https://tbeede.github.io/resume/) on this site.

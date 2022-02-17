@@ -157,7 +157,9 @@
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h2>
-<p>Hi there! I&rsquo;m a Software Developer from South Carolina, and, as you may have guessed, this is my personal site. This just makes it easier for potential employers and current colleagues to find my various projects and info. Have a look around and check out my <a href="http://localhost:1313/about/">About</a> page for more!</p>
+<p>This site was more of challenge to build than I had initially thought, but I managed to get it running. It utilizes a static site generator <a href="https://gohugo.io/">Hugo</a> and a theme of your choosing to get started and modify.</p>
+<p>The challenge was getting GitHub Pages to serve the site even though the documentation made it seem simple enough. As it turns out, the <code>public</code> directory Hugo generates with <code>hugo -D</code>, which contains the necessary <code>index.html</code> GitHub looks for (else it resorts to the <code>README</code>), is not accessible via GitHub Pages because the contents need to be in <code>root</code>, which means moving everything out of <code>public</code>. Initially I did this in a separate <code>gh-pages</code> branch, then decided I would just overwrite the contents in <code>main</code> since the only content that will really change on this site is the posts.</p>
+<p>In the future, perhaps a build script to copy and manage the contents would be nice, but for now it&rsquo;s working!</p>
 
       </div>
 
