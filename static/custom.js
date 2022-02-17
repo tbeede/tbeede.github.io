@@ -1,6 +1,6 @@
 const body = document.body;
 const darkModeToggle = document.getElementById('dark-mode-toggle');
-const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: light)');
 
 if (localStorage.getItem("colorscheme")) {
   if (localStorage.getItem("colorscheme") == "dark"){
