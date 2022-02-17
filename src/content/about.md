@@ -1,9 +1,15 @@
 # About Me :wave:
 
-I'm a Software Developer from South Carolina who started as a QA tester writing code to automate repetitive, manual processes that were dipping into my team's development time. After saving my team and myself hours on daily testing tasks, I was hooked on programming and started focusing more on writing code. Now I'm a completely dedicated Software Developer and still very much enjoy automating repetitive processes as part of my work. I also contribute to web application development and dabble in various areas around the stack. I'm constantly learning and reading up on all the latest development technologies.
+I am currently a Software Development Engineer in Test (SDET) at [Cofense](https://cofense.com/), a company that produces phishing simulation software and other resources for the information security community. Aspects of this role that I have enjoyed most are
 
-In my free time, I play music whether it be drums, guitar, or using Logic Pro to create electronic music. I'm also a competent piano and bass player and love jamming with friends.
+* Acting as the POC for automation tasks on my team (this includes failures/fires as well!)
+* Improving the test suites we have for performance and stability (nobody likes flakey, slow specs)
+* Incorporating build pipelines to run our regression suite at least nightly, as well as making release testing much smoother and providing far more coverage than testing all areas of the app 'by hand'
 
-My Work History
+I'm most interested in expanding my skillset into the information security and cloud engineering realms and I am looking to start with some certifications in each field to grow my skills.
 
-Head over to my [LinkedIn](https://www.linkedin.com/in/tbeede/) profile to see all the fancy job titles I've held!
+In my free time I enjoy playing music whether it be drums, guitar, or electronic music (which really taps into my analytical brain!). I'm also a competent piano and bass player and love jamming with friends.
+
+I have also recently taken up weightlifting as a hobby and to improve my health and strength and have really been enjoying the challenge.
+
+For more of my job history see my [LinkedIn](https://www.linkedin.com/in/tbeede/) or the shorter version of my resume [here](https://tbeede.github.io) on this site.
