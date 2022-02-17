@@ -1,5 +1,5 @@
 [build]
-publish = "exampleSite/public"
+publish = "https://tbeede.github.io/"
 command = "cd exampleSite && hugo --themesDir=../.. --baseURL $URL"
 
 [build.environment]
