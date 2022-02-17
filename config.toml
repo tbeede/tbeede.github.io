@@ -1,4 +1,4 @@
-baseURL = "https://www.tbeede.github.io"
+baseURL = "https://tbeede.github.io"
 title = "tbeede"
 theme = "hugo-coder"
 languageCode = "en"
