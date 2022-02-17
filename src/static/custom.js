@@ -9,9 +9,9 @@ if (localStorage.getItem("colorscheme")) {
     setLightTheme();
   }
 } else if (darkModeToggle.matches) {
-  setDarkTheme();
-} else {
   setLightTheme();
+} else {
+  setDarkTheme();
 }
 
 darkModeToggle.addEventListener('click', function(event) {
