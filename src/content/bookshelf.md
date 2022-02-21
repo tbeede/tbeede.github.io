@@ -6,11 +6,7 @@
 | ![Alt text](https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Lessthan01st1.png/220px-Lessthan01st1.png) | [Less Than Zer0, by Bret Easton Ellis](https://www.amazon.com/Less-Than-Zero-Easton-Ellis/dp/0671543296) |
 | ![Alt Text](https://images-na.ssl-images-amazon.com/images/I/51OWZqaPoLL._SX398_BO1,204,203,200_.jpg) | [The Man Who Was Thursday, by G.K. Chesterton](https://www.amazon.com/Man-Who-Was-Thursday/dp/1514350017) |
 | ![Alt Text](https://images-na.ssl-images-amazon.com/images/I/51xIDVcqmqL._SX273_BO1,204,203,200_.jpg) | [The Dark Tower, by Stephen King](https://www.amazon.com/Dark-Tower-I-Gunslinger/dp/1501161806) |
-| ![Alt text](https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg/220px-Dune-Frank_Herbert_%281965%29_First_edition.jpg) | [Dune, by Frank Herbert](https://www.amazon.in/dp/0441172717) | 
-
-### Reading List
-* [The Alchemist](https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988/)
-
+| ![Alt text](https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg/220px-Dune-Frank_Herbert_%281965%29_First_edition.jpg) | [Dune, by Frank Herbert](https://www.amazon.in/dp/0441172717) |
 
 # Latest Completed Technical  
 |                        |                         |
@@ -37,3 +33,5 @@
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hacker%E2%80%B2s-Handbook-Wade-Alcorn/dp/1118662091)
 * [Books in the Software Security Series](http://buildingsecurityin.com/books/)
 * [Crypto 101](https://www.crypto101.io/)
+
+And more!

@@ -62,8 +62,8 @@
     
 
     <link rel="apple-touch-icon" sizes="180x180" href="https://tbeede.github.io/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://tbeede.github.io/avatar.jpg">   
-    <link rel="icon" type="image/png" sizes="16x16" href="https://tbeede.github.io/avatar.jpg">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://tbeede.github.io/avatar1.jpg">   
+    <link rel="icon" type="image/png" sizes="16x16" href="https://tbeede.github.io/avatar1.jpg">
     <link rel="manifest" href="https://tbeede.github.io/site.webmanifest">
     <link rel="shortcut icon" href="/favicon.ico?v=00Bg8oYJjl">
     <meta name="msapplication-TileColor" content="#3388bb">
@@ -98,15 +98,11 @@
           </li>
         
           <li class="navigation-item">
-            <a class="navigation-link" href="https://tbeede.github.io/bookshelf/">What I&#39;m Reading</a>
-          </li>
-        
-          <li class="navigation-item">
-            <a class="navigation-link" href="https://tbeede.github.io/resume/">Resume</a>
-          </li>
-        
-          <li class="navigation-item">
             <a class="navigation-link" href="https://tbeede.github.io/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://tbeede.github.io/bookshelf/">What I&#39;m Reading</a>
           </li>
         
       
@@ -158,8 +154,7 @@
   </a>
 </h2>
 <p>This site was more of challenge to build than I had initially thought, but I managed to get it running. It utilizes a static site generator <a href="https://gohugo.io/">Hugo</a> and a theme of your choosing to get started and modify.</p>
-<p>The challenge was getting GitHub Pages to serve the site even though the documentation made it seem simple enough. As it turns out, the <code>public</code> directory Hugo generates with <code>hugo -D</code>, which contains the necessary <code>index.html</code> GitHub looks for (else it resorts to the <code>README</code>), is not accessible via GitHub Pages because the contents need to be in <code>root</code>, which means moving everything out of <code>public</code>. Initially I did this in a separate <code>gh-pages</code> branch, then decided I would just overwrite the contents in <code>main</code> since the only content that will really change on this site is the posts.</p>
-<p>In the future, perhaps a build script to copy and manage the contents would be nice, but for now it&rsquo;s working!</p>
+<p>In the future I may rewrite it all in whatever front-end technology happens to be the latest and greatest, but for now I&rsquo;m happy with the way it looks and the ease of setting it all up.</p>
 
       </div>
 

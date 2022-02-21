@@ -13,7 +13,8 @@
       <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://tbeede.github.io/posts/firstpost/</guid>
-      <description>Hello! 👋    Hi there! I&amp;rsquo;m a Software Developer from South Carolina, and, as you may have guessed, this is my personal site. This just makes it easier for potential employers and current colleagues to find my various projects and info. Have a look around and check out my About page for more!</description>
+      <description>Hello! 👋    This site was more of challenge to build than I had initially thought, but I managed to get it running. It utilizes a static site generator Hugo and a theme of your choosing to get started and modify.
+In the future I may rewrite it all in whatever front-end technology happens to be the latest and greatest, but for now I&amp;rsquo;m happy with the way it looks and the ease of setting it all up.</description>
     </item>
     
   </channel>

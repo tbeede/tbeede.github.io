@@ -16,13 +16,13 @@ author = "Timothy Beede"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "T Beede's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Software Development, Automation, and Test", "Enthusiast"]
 avatarURL = "avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 
-favicon_32 = "avatar.jpg"
-favicon_16 = "avatar.jpg"
+favicon_32 = "avatar1.jpg"
+favicon_16 = "avatar1.jpg"
 
 footercontent = ""
 
@@ -142,21 +142,16 @@ url = "https://www.linkedin.com/in/tbeede/"
     name = "Blog"
     weight = 1
     url  = "/posts/"
-    
-[[menu.main]]
-    name = "What I'm Reading"
-    weight = 2
-    url = "/bookshelf/"
-
-[[menu.main]]
-    name = "Resume"
-    weight = 3
-    url = "/resume/"
 
 [[menu.main]]
     name = "About"
-    weight = 4
+    weight = 2
     url = "/about/"
+    
+[[menu.main]]
+    name = "What I'm Reading"
+    weight = 3
+    url = "/bookshelf/"
 
 [taxonomies]
 category = "categories"
