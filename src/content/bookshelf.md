@@ -14,7 +14,9 @@
 | ![Alt text](https://images-na.ssl-images-amazon.com/images/I/31RLovAad7L._SY344_BO1,204,203,200_.jpg) | [Code: The Hidden Language of Computer Hardware and Software, by Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) |
 
 ### Reading List
+* [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=sr_1_1?keywords=godel+escher+bach&qid=1645560290&s=books&sprefix=godel+es%2Cstripbooks%2C189&sr=1-1)
 * [The Drawing of the Three (The Dark Tower, Book 2)](https://www.amazon.com/Drawing-Three-Dark-Tower-Book/dp/0670032557)
+* [Gravity's Rainbow](https://www.amazon.com/Gravitys-Rainbow-Penguin-Classics-Deluxe/dp/0143039946)
 * [The Girl With the Dragon Tattoo](https://www.amazon.com/Girl-Dragon-Tattoo-Millennium/dp/0307949486)
 * [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.amazon.in/dp/1416507787/)
 * [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting/dp/8126533404)
@@ -27,5 +29,3 @@
 * [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.in/Cult-Dead-Cow-Original-Supergroup/dp/1541762363/)
 * [The Browser Hacker's Handbook](https://www.amazon.in/Browser-Hacker%E2%80%B2s-Handbook-Wade-Alcorn/dp/1118662091)
 * [Crypto 101](https://www.crypto101.io/)
-
-And more . . .
