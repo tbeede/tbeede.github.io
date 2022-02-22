@@ -13,7 +13,9 @@
 -------------------------|-------------------------
 | ![Alt text](https://images-na.ssl-images-amazon.com/images/I/31RLovAad7L._SY344_BO1,204,203,200_.jpg) | [Code: The Hidden Language of Computer Hardware and Software, by Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) |
 
-### Reading List (Technical)
+### Reading List
+* [The Drawing of the Three (The Dark Tower, Book 2)](https://www.amazon.com/Drawing-Three-Dark-Tower-Book/dp/0670032557)
+* [The Girl With the Dragon Tattoo](https://www.amazon.com/Girl-Dragon-Tattoo-Millennium/dp/0307949486)
 * [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.amazon.in/dp/1416507787/)
 * [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.in/Web-Application-Hackers-Handbook-Exploiting/dp/8126533404)
 * [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
