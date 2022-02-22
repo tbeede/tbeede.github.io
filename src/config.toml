@@ -21,8 +21,8 @@ avatarURL = "avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 
-favicon_32 = "avatar1.jpg"
-favicon_16 = "avatar1.jpg"
+favicon_32 = "favicon.jpg"
+favicon_16 = "favicon.jpg"
 
 footercontent = ""
 
