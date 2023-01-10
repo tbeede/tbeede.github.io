@@ -16,10 +16,10 @@ author = "Timothy Beede"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "T Beede's personal website"
 keywords = "blog,developer,personal"
-info = ["Software Development, Automation, and Test", "Enthusiast"]
+info = ["Software Skeptic"]
 avatarURL = "avatar.jpg"
 dateFormat = "January 2, 2006"
-since = 2022
+since = 2023
 
 favicon_32 = "favicon.jpg"
 favicon_16 = "favicon.jpg"
